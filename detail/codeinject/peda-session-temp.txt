@@ -1,0 +1,4 @@
+break /home/meta/Desktop/CSAPP_LAB/detail/codeinject/temp.c:4
+break /home/meta/Desktop/CSAPP_LAB/detail/codeinject/temp.c:9
+break /home/meta/Desktop/CSAPP_LAB/detail/codeinject/temp.c:15
+
